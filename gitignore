@@ -1,3 +1,5 @@
 # Exec file
 *.out
 *.o
+*/*.out
+*/*.o

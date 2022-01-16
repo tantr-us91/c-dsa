@@ -10,3 +10,8 @@ struct ArrayList array_list_init(size_t size)
     al.size = size;
     return al;
 }
+
+bool array_list_add(struct ArrayList list, void *data, size_t data_size)
+{
+    
+}
